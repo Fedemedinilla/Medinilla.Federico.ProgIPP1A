@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603110182 source:c:\users\federico\desktop\biblioteca codeblocks\parcialprogramacion01\main.c
+	<stdio.h>
+	<stdlib.h>
+
